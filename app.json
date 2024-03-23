@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NumGame",
-    "slug": "NumGame",
+    "name": "numgame",
+    "slug": "numgame",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
